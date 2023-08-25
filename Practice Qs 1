@@ -15,8 +15,8 @@ Step2: Add following information in the DB:
 Step3: Select & view all your table data.
 
 ANSWER:
-create database AlphaTech;
-use alphatech;
+create database XYZ;
+use XYZ;
 create table employee_info(
 id int primary key,
 name varchar(50),
