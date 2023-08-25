@@ -23,7 +23,7 @@ name varchar(50),
 salary int not null
 );
 insert into employee_info (id,name,salary)
-value (1,"adam",25000),
+values (1,"adam",25000),
 (2,"bob",30000),
 (3,"casey",40000);
 select * from employee_info;
